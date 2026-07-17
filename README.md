@@ -20,6 +20,68 @@
 ## 🚀 Sobre mí
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona el proceso de transformar ideas en código funcional. Me considero una persona curiosa, constante y siempre enfocada en aprender nuevas tecnologías para crear soluciones web eficientes.
 
+## 🎓 Formación Académica
+*   **Desarrollo de Aplicaciones Multiplataforma (DAM):** Estudiante de primer año en instituto técnico.
+*   **Grado Medio (SMR):** Técnico en Sistemas Microinformáticos y Redes.
+*   **ESO:** Educación Secundaria Obligatoria completada.
+
+## 🌐 Idiomas
+*   **Español:** Nativo.
+*   **Rumano:** Nativo.
+*   **Inglés:** B1 / Intermedio 
+
+## 🚀 Mis proyectos destacados
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Páginas Web</h3>
+
+<p align="center">
+<a href="https://github.com/TU_USUARIO/frontend-portfolio">
+<img src="pagsWebFoto.png" alt="imagen de lenguajes para páginas web">
+</a>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/TU_USUARIO/frontend-portfolio">
+<img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+Desarrollo de páginas web utilizando **HTML y CSS**, organizadas por niveles de dificultad. Cada proyecto incluye su código fuente, capturas de pantalla y una breve explicación de lo aprendido.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☕ Aplicaciones Java</h3>
+
+<p align="center">
+<a href="https://github.com/TU_USUARIO/java-projects">
+<img src="appsJavaFoto.png" alt="imagen de Java">
+</a>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/TU_USUARIO/java-projects">
+<img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+Colección de aplicaciones desarrolladas en **Java**, desde ejercicios básicos hasta proyectos más completos utilizando Programación Orientada a Objetos.
+
+</td>
+
+</tr>
+</table>
+
 ## 🛠 Mi Entorno de Trabajo
 *   **Sistema Operativo:** Fedora Workstation Linux, optimizado para el desarrollo.
 *   **Gestión del Conocimiento:** Obsidian, donde documento cada línea de código y concepto que aprendo.
