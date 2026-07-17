@@ -40,7 +40,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona 
 <h3 align="center">🌐 Páginas Web</h3>
 
 <p align="center">
-<a href="https://github.com/TU_USUARIO/paginasWeb">
+<a href="https://github.com/miuu-dev/paginasWeb">
 <img src="pagsWebFoto.png" alt="imagen de lenguajes para páginas web">
 </a>
 </p>
