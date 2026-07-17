@@ -1,8 +1,9 @@
-<div align="center">
+<div class="iamgen">
 
-# ¡Hola, soy Miuu! 👋
+<img src="bannerDeMiuu.png" alt="mi banner" width=100%>
 
-### Estudiante de DAM | Desarrolladora en formación
+</div>
+
 
 ---
 
@@ -32,7 +33,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona 
 ## ⚙️ Intereses Técnicos
 *   **Automatización:** Me encanta encontrar formas de hacer mi entorno más eficiente.
 *   **Personalización:** Desde el diseño de cursores pixelados hasta la configuración de mi entorno Linux.
-*   **Web: ** Interesada en la arquitectura de sitios web limpios y funcionales.
+*   **Web:** Interesada en la arquitectura de sitios web limpios y funcionales.
 
 ## 🎮 Un toque personal
 Cuando no estoy programando, estoy aprendiendo de varias formas más sobre los lenguajes informáticos para poder expandir mi conocimiento. Actualmente es algo pobre en algunos aspectos como, por ejemplo, java o javaScript, pero hago todo lo posible para poder aprender y aplicarlo, no solo en los estudios, sino también en la vida real.
@@ -42,6 +43,10 @@ Cuando no estoy programando, estoy aprendiendo de varias formas más sobre los l
 ### 📫 Conectemos
 ¡Siempre estoy abierta a aprender y compartir conocimientos! Si tienes alguna duda, consejo o quieres charlar sobre tecnología, estaré encantada de conectar.
 
-*Hecho con dedicación por Miuu.*
+---
+
+<div align="center">
+
+*Hecho con dedicación por Miuu el 17 de julio de 2026*
 
 </div>
