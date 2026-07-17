@@ -40,14 +40,14 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona 
 <h3 align="center">🌐 Páginas Web</h3>
 
 <p align="center">
-<a href="https://github.com/TU_USUARIO/frontend-portfolio">
+<a href="https://github.com/TU_USUARIO/paginasWeb">
 <img src="pagsWebFoto.png" alt="imagen de lenguajes para páginas web">
 </a>
 </p>
 
 <p align="center">
 
-<a href="https://github.com/TU_USUARIO/frontend-portfolio">
+<a href="https://github.com/miuu-dev/paginasWeb">
 <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -62,14 +62,14 @@ Desarrollo de páginas web utilizando **HTML y CSS**, organizadas por niveles de
 <h3 align="center">☕ Aplicaciones Java</h3>
 
 <p align="center">
-<a href="https://github.com/TU_USUARIO/java-projects">
+<a href="https://github.com/miuu-dev/appsJava">
 <img src="appsJavaFoto.png" alt="imagen de Java">
 </a>
 </p>
 
 <p align="center">
 
-<a href="https://github.com/TU_USUARIO/java-projects">
+<a href="https://github.com/miuu-dev/appsJava">
 <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
