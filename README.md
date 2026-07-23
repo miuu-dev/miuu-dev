@@ -1,6 +1,6 @@
 <div class="iamgen">
 
-<img src="bannerDeMiuu.png" alt="mi banner" width=100%>
+
 
 </div>
 
