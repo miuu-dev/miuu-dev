@@ -21,10 +21,9 @@
 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**. Me apasiona el proceso de transformar ideas en código funcional. Me considero una persona curiosa, constante y siempre enfocada en aprender nuevas tecnologías para crear soluciones web eficientes.
 
 ## 🎓 Formación Académica
-*   **Desarrollo de Aplicaciones Multiplataforma (DAM):** Estudiante de primer año en instituto técnico.
-*   **Grado Medio (SMR):** Técnico en Sistemas Microinformáticos y Redes.
 *   **ESO:** Educación Secundaria Obligatoria completada.
-*   **DAW:** Desarrollo de Aplicaciones Web (cursando actualmente)
+*   **Grado Medio (SMR):** Técnico en Sistemas Microinformáticos y Redes.
+*   **Grado Superior (DAM):** Desarrollo de Aplicaciones Web (cursando actualmente)
 
 ## 🌐 Idiomas
 *   **Español:** Nativo.
