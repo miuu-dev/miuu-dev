@@ -1,4 +1,4 @@
-<div class="iamgen">
+<div class="imagen">
 
 <img src="bannerDeMiuu.png" alt="mi banner" width=100%>
 
