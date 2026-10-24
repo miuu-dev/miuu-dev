@@ -23,7 +23,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)**. Me apasiona el proceso d
 ## 🎓 Formación Académica
 *   **ESO:** Educación Secundaria Obligatoria completada.
 *   **Grado Medio (SMR):** Técnico en Sistemas Microinformáticos y Redes.
-*   **Grado Superior (DAM):** Desarrollo de Aplicaciones Web (cursando actualmente)
+*   **Grado Superior (DAW):** Desarrollo de Aplicaciones Web (cursando actualmente)
 
 ## 🌐 Idiomas
 *   **Español:** Nativo.
