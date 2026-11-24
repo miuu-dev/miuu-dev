@@ -59,11 +59,11 @@ Desarrollo de páginas web utilizando **HTML y CSS**, organizadas por niveles de
 
 <td width="50%" valign="top">
 
-<h3 align="center">☕ Aplicaciones Java</h3>
+<h3 align="center">✏️ MDocs</h3>
 
 <p align="center">
-<a href="https://github.com/miuu-dev/appsJava">
-<img src="appsJavaFoto.png" alt="imagen de Java">
+<a href="https://github.com/miuu-dev/miuu-word">
+<img src="mdocs-banner.png" alt="imagen de MDocs">
 </a>
 </p>
 
@@ -75,7 +75,7 @@ Desarrollo de páginas web utilizando **HTML y CSS**, organizadas por niveles de
 
 </p>
 
-Colección de aplicaciones desarrolladas en **Java**, desde ejercicios básicos hasta proyectos más completos utilizando Programación Orientada a Objetos.
+Procesador de textos ligero de escritorio con cinta de opciones estilo Word, selector de color, tablas y bloques de código con resaltado. Exporta a .docx y PDF.
 
 </td>
 
